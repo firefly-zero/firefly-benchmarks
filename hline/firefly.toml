@@ -1,0 +1,5 @@
+author_id = "demo"
+app_id = "bench-hline"
+author_name = "Demo"
+app_name = "Bench Horizontal Line"
+lang = "zig"
