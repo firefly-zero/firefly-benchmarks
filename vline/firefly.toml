@@ -1,0 +1,5 @@
+author_id = "demo"
+app_id = "bench-vline"
+author_name = "Demo"
+app_name = "Bench Vertical Line"
+lang = "zig"
