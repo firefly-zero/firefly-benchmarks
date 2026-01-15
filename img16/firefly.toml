@@ -1,0 +1,8 @@
+author_id = "demo"
+app_id = "bench-vline"
+author_name = "Demo"
+app_name = "Bench Vertical Line"
+lang = "zig"
+
+[files]
+img = { path = "sweetie-16-1x.png" }
