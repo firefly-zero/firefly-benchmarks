@@ -1,8 +1,8 @@
 author_id = "demo"
-app_id = "bench-vline"
+app_id = "bench-img16"
 author_name = "Demo"
-app_name = "Bench Vertical Line"
+app_name = "Bench 16-color image"
 lang = "zig"
 
 [files]
-img = { path = "sweetie-16-1x.png" }
+img = { path = "sweetie-16.png" }
