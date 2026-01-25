@@ -1,0 +1,12 @@
+author_id = "demo"
+app_id = "bench-img-big"
+author_name = "Demo"
+app_name = "Bench 16-color image"
+lang = "zig"
+
+[files]
+bg = { path = "bg.png" }
+holes = { path = "holes.png" }
+track = { path = "track.png" }
+trees = { path = "trees.png" }
+water = { path = "water.png" }
