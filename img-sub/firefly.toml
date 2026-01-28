@@ -1,0 +1,8 @@
+author_id = "demo"
+app_id = "bench-img-sub"
+author_name = "Demo"
+app_name = "Bench 16-color sub-image"
+lang = "zig"
+
+[files]
+img = { path = "atlas.png" }

@@ -18,10 +18,10 @@ pub export fn boot() void {
 }
 
 pub export fn render() void {
-    const p = ff.Point{ .x = -100, .y = -100 };
+    const p = ff.Point{ .x = -150, .y = -300 };
     ff.drawImage(bg, p);
-    ff.drawImage(water, p);
-    ff.drawImage(track, p);
-    ff.drawImage(holes, p);
-    ff.drawImage(trees, p);
+    // ff.drawImage(water, p);
+    // ff.drawImage(track, p);
+    // ff.drawImage(holes, p);
+    // ff.drawImage(trees, p);
 }

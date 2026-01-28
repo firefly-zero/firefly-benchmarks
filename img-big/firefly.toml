@@ -1,7 +1,7 @@
 author_id = "demo"
 app_id = "bench-img-big"
 author_name = "Demo"
-app_name = "Bench 16-color image"
+app_name = "Bench big image"
 lang = "zig"
 
 [files]
