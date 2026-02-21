@@ -3,7 +3,7 @@ const ff = @import("firefly");
 var img: ff.Image = undefined;
 
 pub export fn boot() void {
-    var buf: [8205]u8 = undefined;
+    var buf: [8196]u8 = undefined;
     img = ff.loadFile("img", &buf);
 }
 
