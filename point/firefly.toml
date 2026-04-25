@@ -1,0 +1,5 @@
+author_id = "demo"
+app_id = "bench-point"
+author_name = "Demo"
+app_name = "Bench Point"
+lang = "zig"
