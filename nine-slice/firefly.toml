@@ -1,0 +1,8 @@
+author_id = "demo"
+app_id = "bench-nine-slice"
+author_name = "Demo"
+app_name = "Bench 9-slice"
+lang = "zig"
+
+[files]
+img = { path = "img.png" }
