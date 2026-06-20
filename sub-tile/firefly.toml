@@ -1,0 +1,8 @@
+author_id = "demo"
+app_id = "bench-sub-tile"
+author_name = "Demo"
+app_name = "Bench sub-image tiling"
+lang = "zig"
+
+[files]
+img = { path = "atlas.png" }
