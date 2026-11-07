@@ -1,0 +1,9 @@
+author_id = "demo"
+app_id = "bench-img16"
+author_name = "Demo"
+app_name = "Bench 16-color image"
+lang = "rust"
+
+[files]
+f1 = { path = "font-v1.fff" }
+f2 = { path = "font-v2.fff" }
