@@ -24,7 +24,7 @@ static STRINGS: [&str; 18] = [
 ];
 
 static mut F1: [u8; 655] = [0; _];
-static mut F2: [u8; 772] = [0; _];
+static mut F2: [u8; 964] = [0; _];
 static mut OLD: bool = false;
 
 #[unsafe(no_mangle)]
